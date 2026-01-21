@@ -1,0 +1,1 @@
+This repository contains a  Neural Network  model trained to predict second-hand car prices. Leveraging supervised learning techniques and advanced data preprocessing, this model offers accurate price predictions based on a dataset sourced from Kaggle. 
